@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T13:46:16.252Z" agent="5.0 (Windows)" etag="skbK5XIh-GXi3PGU68Wv" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T13:54:57.062Z" agent="5.0 (Windows)" etag="zGNmfTmi6ydwXVEXyLY5" version="14.4.3" type="github">
   <diagram id="9yBxZeoPjb4uYD_nnHj8" name="Page-1">
-    <mxGraphModel dx="1447" dy="752" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="902" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
         <mxCell id="fFZW_oCPpxYMm6qtP-ck-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;sketch=0;shadow=0;" parent="1" source="fFZW_oCPpxYMm6qtP-ck-1" target="fFZW_oCPpxYMm6qtP-ck-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fFZW_oCPpxYMm6qtP-ck-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;CRAFTX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=3;sketch=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="fFZW_oCPpxYMm6qtP-ck-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;CRAFTX&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=4;sketch=0;shadow=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="828" y="72" width="144" height="72" as="geometry" />
         </mxCell>
         <mxCell id="fFZW_oCPpxYMm6qtP-ck-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;sketch=0;shadow=0;" parent="1" source="fFZW_oCPpxYMm6qtP-ck-2" target="fFZW_oCPpxYMm6qtP-ck-17" edge="1">
@@ -180,8 +180,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="819" y="495" />
-              <mxPoint x="819" y="855" />
-              <mxPoint x="882" y="855" />
+              <mxPoint x="819" y="800" />
+              <mxPoint x="882" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
